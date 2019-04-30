@@ -23,6 +23,11 @@ This also applies to the Dev Pro.  Dev Pro just has more storage.
 
 The partial copy can copy SOME data.
 
+
+EMAIL QUICK ACTIONS NOT APPEARING IN SANDBOXES!!!
+
+1.  Go to Setup -> DELIVERABILITY (not EMAIL DELIVERABILITY)
+2.  From the top pull down, choose ALL EMAILS (not System Emails Only)
  
 
 Only the FULL will copy all data. 
